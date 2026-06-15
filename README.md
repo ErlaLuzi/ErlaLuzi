@@ -16,6 +16,13 @@ I like projects where code becomes something useful: a web app, a database syste
 - English C1, Japanese N5, Albanian native speaker
 
 ## Featured project
+### Zan-Ora
+
+Zan-Ora is a full-stack web application project focused on building a practical digital platform with user-centered features, authentication, database management, and structured application workflows.
+
+**Tech used:** PHP, Laravel, MySQL, JavaScript, HTML/CSS
+
+[View Zan-Ora](https://github.com/ErlaLuzi/Zan-Ora)
 
 ### LungChat: Medical Image Analysis for Lung X-rays
 
