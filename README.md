@@ -1,51 +1,65 @@
-# Hi there, I'm Erla Luzi
+# Hi, I'm Erla Luzi
 
-I am an Artificial Intelligence student who enjoys building projects with Python, machine learning, computer vision, and simple apps that make AI easier to use.
+I am a 3rd-year Software Engineering student at Epoka University, close to finishing my degree. I enjoy building practical, user-centered software and exploring areas like full-stack development, backend systems, artificial intelligence, and computer vision.
+
+I like projects where code becomes something useful: a web app, a database system, an AI model, or a tool that helps people interact with technology more easily.
 
 ## About me
 
-- I am currently working on **LungChat**, an AI app for chest X-ray analysis
-- I am learning more about deep learning, computer vision, and model evaluation
-- I like building projects that combine AI models with clean user interfaces
-- Ask me about Python, Streamlit, PyTorch, and beginner-friendly AI projects
-- I am interested in health-tech, intelligent systems, and practical AI tools
+- Software Engineering student based in Tirana, Albania
+- Interested in full-stack development, backend development, and AI
+- Experience with Java, PHP, Python, JavaScript, HTML/CSS, C, and C++
+- Worked with .NET Framework, SQL Server, MySQL, Git, GitHub, and Visual Studio
+- Completed projects involving web applications, authentication, SQL databases, and medical image analysis
+- NVIDIA certificate in Fundamentals of Deep Learning
+- Java Full Stack course at Tirana ICT Academy
+- English C1, Japanese N5, Albanian native speaker
 
 ## Featured project
 
-### LungChat
+### LungChat: Medical Image Analysis for Lung X-rays
 
-LungChat is an educational AI application that analyzes chest X-ray images and predicts whether they are **Normal** or **Abnormal**.
+LungChat is an educational AI project for chest X-ray analysis. It uses a U-Net model for lung segmentation and a DenseNet classifier to predict whether a lung X-ray is normal or abnormal.
 
-It includes:
+**Main features:**
 
-- X-ray image upload
-- AI prediction results
-- Confidence and probability scores
-- Optional U-Net lung segmentation
-- Side-by-side image comparison
-- Streamlit interface
+- Chest X-ray upload and prediction
+- U-Net lung segmentation
+- DenseNet-based abnormality classification
+- Image preprocessing and model evaluation
+- Streamlit web app interface
 
-**Tech used:** Python, Streamlit, PyTorch, Torchvision, OpenCV, Pillow
+**Tech used:** Python, PyTorch, Streamlit, OpenCV, Pillow, NumPy
 
 [View LungChat](https://github.com/ErlaLuzi/LungChat-Public-Version)
 
+## Other projects
+
+During my studies, I have built several full-stack web applications, including:
+
+- Merchandise store
+- Library system
+- Electronic management system
+- Booking application during my internship at 3i Solutions
+
+These projects helped me practice dynamic content, authentication, database design, SQL, teamwork, and structured development workflows.
+
 ## Tech stack
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## What I am exploring
-
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Medical image analysis
-- Streamlit app development
-- Clean project documentation
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub stats
 
@@ -55,4 +69,6 @@ It includes:
 
 ## Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erla%20Luzi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erla-luzi-677522410/)
 [![GitHub](https://img.shields.io/badge/GitHub-ErlaLuzi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErlaLuzi)
+[![Email](https://img.shields.io/badge/Email-erlaluzi99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erlaluzi99@gmail.com)
