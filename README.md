@@ -50,8 +50,8 @@ During my studies, I have built several full-stack web applications, including:
 - Merchandise store (https://github.com/ErlaLuzi/ghibli-treasures)
 - Germany Based Transportation Website ( Deployed : https://www.oditranslogistik.de)
 - Library system
-- Electronic management system
-- Booking application during my internship at 3i Solutions
+- Electronic management system (https://github.com/ErlaLuzi/Software-Testing)
+- Booking application during my internship 
 
 These projects helped me practice dynamic content, authentication, database design, SQL, teamwork, and structured development workflows.
 
