@@ -11,19 +11,17 @@ I like projects where code becomes something useful: a web app, a database syste
 - Experience with Java, PHP, Python, JavaScript, HTML/CSS, C, and C++
 - Worked with .NET Framework, SQL Server, MySQL, Git, GitHub, and Visual Studio
 - Completed projects involving web applications, authentication, SQL databases, and medical image analysis
-- NVIDIA certificate in Fundamentals of Deep Learning
-- Java Full Stack course at Tirana ICT Academy
-- English C1, Japanese N5, Albanian native speaker
-
+  
 ## Featured project
 ### Zan-Ora
 
 Zan-Ora is a full-stack web application project focused on building a practical digital platform with user-centered features, authentication, database management, and structured application workflows.
 
 **Tech used:** PHP, Laravel, MySQL, JavaScript, HTML/CSS
-[Deployed] (https://attractive-reflection-production-0f81.up.railway.app
 
-https://attractive-reflection-production-0f81.up.railway.app/zanora-secure-admin/login)
+**Live app:** [Zan-Ora](https://attractive-reflection-production-0f81.up.railway.app)
+
+**Admin login:** [Zan-Ora Admin](https://attractive-reflection-production-0f81.up.railway.app/zanora-secure-admin/login)
 
 [View Zan-Ora](https://github.com/ErlaLuzi/Zan-Ora)
 
@@ -55,22 +53,24 @@ During my studies, I have built several full-stack web applications, including:
 
 These projects helped me practice dynamic content, authentication, database design, SQL, teamwork, and structured development workflows.
 
-## Tech stack
+## Technology 
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+<div align="center">
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python,php,js,cpp,c,html,css" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=dotnet,laravel,pytorch,opencv,streamlit" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+
+</div>
 
 ## GitHub stats
 
