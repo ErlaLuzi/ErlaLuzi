@@ -21,6 +21,9 @@ I like projects where code becomes something useful: a web app, a database syste
 Zan-Ora is a full-stack web application project focused on building a practical digital platform with user-centered features, authentication, database management, and structured application workflows.
 
 **Tech used:** PHP, Laravel, MySQL, JavaScript, HTML/CSS
+[Deployed] (https://attractive-reflection-production-0f81.up.railway.app
+
+https://attractive-reflection-production-0f81.up.railway.app/zanora-secure-admin/login)
 
 [View Zan-Ora](https://github.com/ErlaLuzi/Zan-Ora)
 
@@ -44,7 +47,8 @@ LungChat is an educational AI project for chest X-ray analysis. It uses a U-Net 
 
 During my studies, I have built several full-stack web applications, including:
 
-- Merchandise store
+- Merchandise store (https://github.com/ErlaLuzi/ghibli-treasures)
+- Germany Based Transportation Website ( Deployed : https://www.oditranslogistik.de)
 - Library system
 - Electronic management system
 - Booking application during my internship at 3i Solutions
