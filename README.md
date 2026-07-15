@@ -1,12 +1,12 @@
 # Hi, I'm Erla Luzi
 
-I am a 3rd-year Software Engineering student at Epoka University, close to finishing my degree. I enjoy building practical, user-centered software and exploring areas like full-stack development, backend systems, artificial intelligence, and computer vision.
+I am a Software Engineering graduate. Garduated at Epoka University. I enjoy building practical, user-centered software and exploring areas like full-stack development, backend systems, artificial intelligence, and computer vision.
 
 I like projects where code becomes something useful: a web app, a database system, an AI model, or a tool that helps people interact with technology more easily.
 
 ## About me
 
-- Software Engineering student based in Tirana, Albania
+- Software Engineering graduate based in Tirana, Albania
 - Interested in full-stack development, backend development, and AI
 - Experience with Java, PHP, Python, JavaScript, HTML/CSS, C, and C++
 - Worked with .NET Framework, SQL Server, MySQL, Git, GitHub, and Visual Studio
