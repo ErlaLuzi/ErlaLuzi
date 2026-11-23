@@ -12,7 +12,27 @@ I like projects where code becomes something useful: a web app, a database syste
 - Worked with .NET Framework, SQL Server, MySQL, Git, GitHub, and Visual Studio
 - Completed projects involving web applications, authentication, SQL databases, and medical image analysis
   
-## Featured project
+## Featured 
+
+### House of Euphoria
+
+House of Euphoria is a website I designed and built for a real client, a luxury evening-wear brand. It is designed mobile-first for handheld devices, since most customers find the brand through Instagram on their phones. Instead of a cart and checkout, every piece leads to an order through Instagram direct messages as per client request.
+
+**Main features:**
+
+- Mobile-first layout tested from small 280px phones up to desktop
+- Collection page with Sets / Dresses filter and product pop-ups
+- Swipe-down-to-close product window and full-screen photo viewer with pinch-to-zoom
+- "Order via Instagram" that prepares a message for the chosen piece
+- Hero video on phones, with a photo fallback when the video can't play
+- Built without frameworks: plain HTML, CSS, and JavaScript
+
+**Tech used:** HTML5, CSS3, JavaScript, Figma, Vercel
+
+**Live website:** [houseoffeuphoria.com](https://www.houseoffeuphoria.com)
+
+[View House of Euphoria](https://github.com/ErlaLuzi/HouseOfEuphoria)
+
 ### Zan-Ora
 
 Zan-Ora is a full-stack web application project focused on building a practical digital platform with user-centered features, authentication, database management, and structured application workflows.
